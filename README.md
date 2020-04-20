@@ -1,1 +1,1 @@
-[wiki](https://github.com/SuperMarioOfficial/CTF-Wiki)
+Check wiki
